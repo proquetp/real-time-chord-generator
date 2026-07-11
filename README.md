@@ -39,11 +39,4 @@ The system listens to a note played near a microphone, identifies it by measurin
 | `adc.c/h` | ADC driver with hysteresis for zero-crossing detection |
 | `pwm.c/h` | Software PWM via Timer2 ISR, four independent channels |
 | `timer3.c/h` | Timer3 driver for tempo/duration counting |
-| `config.c/h` | Clock and microcontroller configuration |
-
-## Team
-
-Modesto Álvarez Calvo · Pol Roquet Puigdollers · Pablo Fernández Freige
-
----
-*ICAI — Universidad Pontificia Comillas · Electronic Systems · November 2025*
+| `config.c/h` | Clock and microcontroller configuration |ectronic Systems · November 2025*
